@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Satyam Yadav 👋
 
-<!--
-**satyamydv-dev/satyamydv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Full Stack Web Developer | BCA Student
 
-Here are some ideas to get you started:
+I'm learning Full Stack Web Development and building projects to improve my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning HTML, CSS, and JavaScript
+- 🛠️ Working on web development projects
+- 🎯 Goal: Become a skilled Full Stack Developer
+- 📚 Learning something new every day
+
+### 🧰 Technologies I'm Learning
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+### 🚀 My Goals
+
+- Build real-world web applications
+- Improve my coding and problem-solving skills
+- Grow as a Full Stack Web Developer
+
+### 📫 Connect With Me
+
+Feel free to explore my repositories and follow my learning journey!
+
+---
+
+⭐ *Learning, building, and improving every day.*
